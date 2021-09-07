@@ -39,6 +39,19 @@
   # push to your repo on Github
   git push
   ```
+* Check file ststus
+  ```
+  git status
+  ```
+* Use git to delete a file
+  ```
+  git rm <file>
+  # update all files status
+  git add -u
+  git commit -m "<Remove a file>"
+  # find out the history
+  git log
+  ```
 ## Reference
 * <https://www.youtube.com/watch?v=8JJ101D3knE>
 * <https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/>
