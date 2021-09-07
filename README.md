@@ -14,6 +14,10 @@
   ```
   git --version
   ```
-
+* Setting
+  ```
+  git config --global user.name "your name of account"
+  git config --global user.email your email
+  ```
 ## Reference
 <https://www.youtube.com/watch?v=8JJ101D3knE>
