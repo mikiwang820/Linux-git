@@ -1,7 +1,7 @@
 # git
 ## Introduction
 * What is git?
-  *git is a version control system
+  * git is a version control system
 * Why we need git?
 
 ## Reference
