@@ -10,7 +10,7 @@
   * Global: all repositories of the current user
   * Local: the current repository
 * Concept of git
-  <img width="660" alt="截圖 2021-09-07 下午4 16 51" src="https://user-images.githubusercontent.com/61928785/132310006-462848e4-ec04-49f9-a800-c57b280ad673.png">
+  <img width="200" alt="截圖 2021-09-07 下午4 16 51" src="https://user-images.githubusercontent.com/61928785/132310006-462848e4-ec04-49f9-a800-c57b280ad673.png">
 ## Basic commands
 * check the version of git
   ```
