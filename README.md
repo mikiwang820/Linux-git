@@ -18,9 +18,25 @@
   ```
 * Setting
   ```
-  git config --global user.name <"your name of account">
+  git config --global user.name "<your name of account>"
   git config --global user.email <your email>
+  ```
+* Clone repo
+  ```
+  git clone <URL>
+  ```
+* Push repo
+  ```
+  # start a new repo locally
+  git init
+  # add a remote repo
+  git remote origin set <URL>
+  # add a change in the working directory to the staging area
+  git add <your file>
+  git commit -m "<description>"
+  git push
   ```
 ## Reference
 * <https://www.youtube.com/watch?v=8JJ101D3knE>
 * <https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/>
+* https://www.atlassian.com/git/tutorials/saving-changes
