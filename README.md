@@ -6,9 +6,9 @@
   * Track history
   * Work together
 * Three different levels of user
-  1. System: all users
-  2. Global: all repositories of the current user
-  3. Local: the current repository
+  * System: all users
+  * Global: all repositories of the current user
+  * Local: the current repository
 ## Basic commands
 * check the version of git
   ```
