@@ -26,7 +26,7 @@
   git clone <URL>
   ```
 * Push repo
-  * You would insert your username and passward after `git push`, but the passward here is not your Github's passward. First of all, you have to go to **Settings** => **Developer Settings** => **Personal Access Token** => Fillup the form => click **Generate Token** and then copy it for the passward.
+  * You will need to input your username and passward after `git push`, but the passward here is not your Github's passward. First of all, you have to go to **Settings** => **Developer Settings** => **Personal Access Token** => Fillup the form => click **Generate Token** and then copy it for the passward.  
   ```
   # start a new repo locally
   git init
