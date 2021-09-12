@@ -31,7 +31,7 @@
   # start a new repo locally
   git init
   # add a remote repo
-  git remote origin set <URL>
+  git remote origin add <URL>
   # add a change in the working directory to the staging area
   git add <your file>
   # Take the staged snapshot and commits it to the project history
